@@ -47,5 +47,5 @@
 
 **NOTE** A mochawesome report will be generated when all the testcases via terminal will be executed. A sample reports and videos are already been pushed in the branch   
 
-Report link: [Mochawesome-report](https://github.com/shwetamathur2110/maax_cypress_automation/blob/main/cypress/report/index.html)
-Video link: [Cypress-Video](https://github.com/shwetamathur2110/maax_cypress_automation/tree/main/cypress/report/videos)
+Report link: [Mochawesome-report](https://github.com/shwetamathur2110/maax_cypress_automation/blob/master/cypress/report/index.html)
+Video link: [Cypress-Video](https://github.com/shwetamathur2110/maax_cypress_automation/tree/master/cypress/report/videos)
