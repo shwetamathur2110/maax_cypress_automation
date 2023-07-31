@@ -1,0 +1,18 @@
+{
+  "name": "maax_cypress_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^12.17.2",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-mochawesome-reporter": "^3.5.1"
+  },
+  "scripts": {
+    "delete:report": "(if exist cypress\\report (rmdir /Q /S cypress\\report))",
+    "cypress:test": "cypress run --browser chrome",
+    "cypress:run": "npm run delete:report && npm run cypress:test"
+  },
+  "author": "Shweta Mathur",
+  "license": "ISC"
+}
